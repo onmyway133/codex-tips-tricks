@@ -2,6 +2,8 @@
 
 Collection of tips and tricks for [OpenAI's Codex CLI](https://developers.openai.com/codex/), the terminal coding agent.
 
+![](images/img.png)
+
 ## Table of Contents
 
 ### General
